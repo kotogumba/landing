@@ -32,6 +32,7 @@ a {
   text-align: center;
 }
 
+/* respoonsive */
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
